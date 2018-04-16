@@ -1,0 +1,25 @@
+{
+  "name": "be-cli",
+  "version": "0.0.1",
+  "description": "be tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-howie/be-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "howie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ali-howie/be-cli/issues"
+  },
+  "homepage": "https://github.com/ali-howie/be-cli#readme",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
